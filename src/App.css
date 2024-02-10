@@ -1,0 +1,39 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10vh;
+  padding: 10vh;
+  background-color: antiquewhite;
+}
+
+
+.box{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20vh;
+  height: 10vh;
+  width: 100vh;
+  background-color: aquamarine;
+  border: 10px;
+}
+
+button{
+  width: 10vh;
+  height: 10vh;
+  font-size: 5vh;
+  padding: 1vh;
+  margin: 1vh;
+}
+
+h1{
+  font-size: 5vh;
+}
+
+
